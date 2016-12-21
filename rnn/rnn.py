@@ -58,7 +58,7 @@ class Predictionconfig(MpiiConfig):
 
 
 class MPIImodel(object):
-  """The PTB model."""
+  """The MPIIrnn model."""
 
   def __init__(self, is_training, config):
 
