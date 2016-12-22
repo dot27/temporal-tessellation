@@ -14,7 +14,7 @@ This code is written in python. To use it you will need:
 Getting the data:
 https://sites.google.com/site/describingmovies/lsmdc-2016/download
 
-This method has won the challenge (Large Scale Movie Description and Understanding Challenge at ECCV 2016). 
+This method has won the Large Scale Movie Description and Understanding Challenge at ECCV 2016. 
 
 
 ## Preparing the data
