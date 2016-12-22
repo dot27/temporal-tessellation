@@ -1,6 +1,6 @@
 # Temporal Tessellation for Video Annotation and Summarization
 
-Implementation of video captioning from the paper ["Temporal Tessellation for Video Annotation and Summarization"]
+Implementation of video captioning from the paper ["Temporal Tessellation for Video Annotation and Summarization"](https://arxiv.org/abs/1612.06950)
 
 
 ## Dependencies
