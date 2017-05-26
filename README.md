@@ -1,6 +1,7 @@
-# Temporal Tessellation for Video Annotation and Summarization
+# Temporal Tessellation: A Unified Approach for Video Analysis
 
-Implementation of video captioning from the paper ["Temporal Tessellation for Video Annotation and Summarization"](https://arxiv.org/abs/1612.06950)
+
+Implementation of video captioning from the paper ["Temporal Tessellation: A Unified Approach for Video Analysis"](https://arxiv.org/abs/1612.06950)
 
 
 ## Dependencies
@@ -59,4 +60,4 @@ Descriptions of each hyperparameter follow:
 
 If you found this code useful, please cite the following paper:
 
-Dotan kaufman, Gil levi, Tal Hassner, Lior wolf. **"Temporal Tessellation for Video Annotation and Summarization."** 
+Dotan kaufman, Gil levi, Tal Hassner, Lior wolf. **"Temporal Tessellation: A Unified Approach for Video Analysis."** 
