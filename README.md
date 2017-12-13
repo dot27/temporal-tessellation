@@ -6,6 +6,8 @@ Implementation of video captioning from the paper ["Temporal Tessellation: A Uni
 Before going further please watch this:
 [ICCV 2017 spotlight](https://www.youtube.com/watch?v=XPcvNxhoh58)
 
+This method has won the Large Scale Movie Description and Understanding Challenge at ECCV 2016. 
+
 ## Dependencies
 
 This code is written in python. To use it you will need:
@@ -16,9 +18,6 @@ This code is written in python. To use it you will need:
 ### Getting data
 Getting the data:
 https://sites.google.com/site/describingmovies/lsmdc-2016/download
-
-This method has won the Large Scale Movie Description and Understanding Challenge at ECCV 2016. 
-
 
 ## Preparing the data
 
