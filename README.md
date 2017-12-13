@@ -5,7 +5,7 @@ Implementation of video captioning from the paper ["Temporal Tessellation: A Uni
 
 [Demo](https://www.youtube.com/watch?v=XPcvNxhoh58)
 
-
+[![Demo](https://www.youtube.com/watch?v=XPcvNxhoh58/0.jpg)](https://www.youtube.com/watch?v=XPcvNxhoh58)
 ## Dependencies
 
 This code is written in python. To use it you will need:
