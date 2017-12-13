@@ -3,7 +3,8 @@
 
 Implementation of video captioning from the paper ["Temporal Tessellation: A Unified Approach for Video Analysis"](https://arxiv.org/abs/1612.06950)
 
-[Results](https://www.youtube.com/watch?v=XPcvNxhoh58)
+Before going further please watch this:
+[ICCV 2017 spotlight](https://www.youtube.com/watch?v=XPcvNxhoh58)
 
 ## Dependencies
 
